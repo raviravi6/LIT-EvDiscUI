@@ -1,0 +1,135 @@
+{
+  "matter": "Communi3 and Related Projects",
+  "elements": [
+    {
+      "element": "Investment of Money",
+      "facts": [
+        {
+          "description": "Adrastea Finance promotes investment opportunities in DeFi protocols.",
+          "source": {
+            "tweet_id": "1772738729100071069",
+            "text": "@AdrasteaFinance Adrastea Finance is a DeFi protocol on Solana focusing on developing leveraged strategies for Jupiter and other oracle-based DEXs on Solana, and offering high APY for stablecoins. TLDR: They help you farm yield and leverage your portfolio hands-free!",
+            "username": "Sea3P0",
+            "timestamp": "2024-03-26T21:33:43+00:00"
+          },
+          "explanation": "This tweet promotes DeFi investment opportunities, including leveraged strategies and high APY for stablecoins, implying potential for financial involvement."
+        },
+        {
+          "description": "Mintport announces launch of token launchpad with dynamic pricing model.",
+          "source": {
+            "tweet_id": "1756417866306396580",
+            "text": "As NFTs are slowing down we've been putting more focus into our token Launchpad and launch methods. We just integrated a dynamic pricing model( Usdc price per token goes up or down based on the demand of people buying tokens). On the 21st of this month we'll be releasing our…",
+            "username": "SolportTom",
+            "timestamp": "2024-02-10T20:40:26+00:00"
+          },
+          "explanation": "The tweet discusses a token launchpad with dynamic pricing, indicating opportunities for investment in new tokens."
+        },
+        {
+          "description": "Solport announces first launch on their token launchpad with fee structure.",
+          "source": {
+            "tweet_id": "1745674015799115812",
+            "text": "First launch on our token Launchpad next week. 7.5% service fee. 3.5% will be airdropped to Gen1 holders. 3.5% will be airdropped to GP holders. 0.5% will be airdropped to Pilot holders ( incentive campaign). We're hoping this is the start of our token Launchpad popping…",
+            "username": "SolportTom",
+            "timestamp": "2024-01-12T05:08:13+00:00"
+          },
+          "explanation": "This tweet outlines the fee structure for a token launchpad, implying investment opportunities and potential returns for token holders."
+        }
+      ]
+    },
+    {
+      "element": "Common Enterprise",
+      "facts": [
+        {
+          "description": "Mintport announces profit sharing with token stakers.",
+          "source": {
+            "tweet_id": "1731786939320213602",
+            "text": "In the last 2 weeks we've profited $78,000 from our business operations. Soon, we'll be giving back this Usdc directly to $GP stakers. Say what you want but by facts we are the Top Launchpad on $SOL. Soon we'll be the top in other areas. Goal for this month is $200,000+…",
+            "username": "SolportTom",
+            "timestamp": "2023-12-04T21:25:56+00:00"
+          },
+          "explanation": "This tweet indicates a common enterprise where the fortunes of the company and token stakers are interlinked through profit sharing."
+        },
+        {
+          "description": "Solport explains the purpose of their $GP token.",
+          "source": {
+            "tweet_id": "1693317372818399743",
+            "text": "We've been focused on the service business for a long time, offering Launchpad custom development, etc. When we launched $GP, the idea behind it was to put the service business behind a token where it could benefit from our Launchpad and our business operations.",
+            "username": "SolportTom",
+            "timestamp": "2023-08-20T17:41:36+00:00"
+          },
+          "explanation": "This tweet describes how the $GP token is tied to the company's service business, indicating a common enterprise between token holders and the company."
+        }
+      ]
+    },
+    {
+      "element": "Expectation of Profits",
+      "facts": [
+        {
+          "description": "Rebase announces airdrop of $IRL tokens to NFT holders.",
+          "source": {
+            "tweet_id": "1773431028335456688",
+            "text": "RT @REBASEgg: Thrilled to announce that we're airdropping $IRL to holders of the Soulbound Royal Emmy NFT for beta testers. @MagicEden Th…",
+            "username": "Sea3P0",
+            "timestamp": "2024-03-28T19:24:40+00:00"
+          },
+          "explanation": "The airdrop of tokens to NFT holders creates an expectation of profits for those holding the NFTs."
+        },
+        {
+          "description": "Sea3P0 promotes a DeFi token launch on Solana.",
+          "source": {
+            "tweet_id": "1772738716504674500",
+            "text": "The biggest DeFi token that you haven't heard of is coming to Solana but ya girl is going to help you position yourself so you don't miss out &lt;3 here's everything you need to know about 👇🧵",
+            "username": "Sea3P0",
+            "timestamp": "2024-03-26T21:33:40+00:00"
+          },
+          "explanation": "This tweet creates an expectation of profits by promoting a new DeFi token launch and offering positioning advice."
+        },
+        {
+          "description": "RainFi announces peer-to-peer loans for DeFi on Solana.",
+          "source": {
+            "tweet_id": "1727407603129680065",
+            "text": "RT @RainFi_: 1/ Introducing the first custom Peer-to-Peer loans for DeFi on @solana. Diamond handing tokens has never been more easy. + D…",
+            "username": "Sea3P0",
+            "timestamp": "2023-11-22T19:24:00+00:00"
+          },
+          "explanation": "The introduction of peer-to-peer loans in DeFi implies potential for profits through lending and borrowing activities."
+        }
+      ]
+    },
+    {
+      "element": "Efforts of Others",
+      "facts": [
+        {
+          "description": "Solport describes their efforts in developing new products and expanding to multiple chains.",
+          "source": {
+            "tweet_id": "1645249449596268544",
+            "text": "On the Taiyo front, the main focus is on how to get cool products out that burn the graphite token and benefit Taiyo holders. We've been talking to several chains and are looking to expand our launchpad technology to multiple chains. The model is the same % of mint in $GP + RS.",
+            "username": "SolportTom",
+            "timestamp": "2023-04-10T02:16:50+00:00"
+          },
+          "explanation": "This tweet highlights the efforts of the Solport team in developing new products and expanding their technology, which token holders rely on for potential profits."
+        },
+        {
+          "description": "Solport explains the value proposition of their Graphite token.",
+          "source": {
+            "tweet_id": "1546714144228999169",
+            "text": "@block_degen @earlyishadopter @NfThinks @frankdegods Graphite is mainly a coin where is the value is backed by our tech aspirations as opposed to the standard nft coin which is mostly backed by burning mechanics and ponzinomics. Don't get me wrong when you have a nft backed coin you need to have burns even with tech aspirations..",
+            "username": "SolportTom",
+            "timestamp": "2022-07-12T04:32:43+00:00"
+          },
+          "explanation": "This tweet emphasizes that the value of the Graphite token is backed by the team's technological efforts, indicating that profits depend on the work of the Solport team."
+        },
+        {
+          "description": "Solport hints at developing innovative features for their community.",
+          "source": {
+            "tweet_id": "1482429102661545988",
+            "text": "Was pretty much up all night with this idea in my head. I really have a way to make this super innovative and plan on executing it soon. Can't say much right now but Taiyo community will be earning some revenue from it to add on the growing income streams. 🤖",
+            "username": "SolportTom",
+            "timestamp": "2022-01-15T19:06:54+00:00"
+          },
+          "explanation": "This tweet suggests that the Solport team is working on innovative features that will generate revenue for the community, emphasizing the reliance on the team's efforts for potential profits."
+        }
+      ]
+    }
+  ]
+}

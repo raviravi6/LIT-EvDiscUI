@@ -128,12 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#json
-*.json
-**/*.json
-*.jsonl
-**/*.jsonl
-
 # Ignore pickles
 *.pkl
 **/*.pkl
